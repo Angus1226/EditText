@@ -3,4 +3,4 @@
 
 <img src="https://github.com/Angus1226/EditText/blob/master/count.jpg" alt="圖片無法顯示" title="執行結果" width="600px" height="500px">
 
-![image](https://github.com/Angus1226/EditText/blob/master/count.jpg
+
